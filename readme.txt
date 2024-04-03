@@ -1,5 +1,5 @@
-# Bank Database Management Project
- 
+In the Zip file, you can find the following files: 
+
 Python_Script_for_Generating_Data : This Jupyter notebook compiles all the code utilized for generating data across multiple tables.
 
 .csv files: These files contain the data that we have to load into the tables. Each CSV file corresponds to specific tables and contains the respective data entries.
